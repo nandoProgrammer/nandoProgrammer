@@ -1,4 +1,4 @@
-- 👋 Olá, eu me chamo Fernando Costa, sou um programador em busca de oportunidades e desafios
+- 👋 Olá, eu me chamo Fernando Costa, sou um programador há mais de 4 anos 
 - 👀 Gosto de jogar videogame, jogar futebol e assitir filmes clássicos
 - 🌱 Trabalho na Teddy Open Finance como Desenvolvedor Front End
 
