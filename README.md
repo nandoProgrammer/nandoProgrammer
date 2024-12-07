@@ -1,6 +1,9 @@
-- 👋 Olá, eu me chamo Fernando Costa, sou um programador há mais de 4 anos 
-- 👀 Gosto de jogar videogame, jogar futebol e assitir filmes clássicos
-- 🌱 Atualmente trabalho na Teddy Open Finance como Desenvolvedor Front End
+Olá! Eu sou Fernando
+- 💻 Desenvolvedor FullStack e entusiasta de tecnologia
+- 🌐 Apaixonado por criar soluções práticas e escaláveis para problemas reais.
+- 📬 Vamos colaborar? Sinta-se à vontade para entrar em contato: https://nandoprogrammer.netlify.app/
+
+
 
 <br />
 <div>
